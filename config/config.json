@@ -1,0 +1,15 @@
+{
+    "authenticationMode": "masteruser",
+    "authenticationMode_service": "serviceprincipal",
+    "authorityUri": "https://login.microsoftonline.com/common/oauth/v2.0/token",
+    "original_authorityUri": "https://login.microsoftonline.com/common/oauth/v2.0/",
+    "scope": "https://analysis.windows.net/powerbi/api",
+    "apiUrl": "https://api.powerbi.com/",
+    "clientId": "224471ed-c0f1-408d-8a10-504b8b6e0ab8",
+    "clientSecret": "",
+    "workspaceId": "a7d50836-ae58-41cb-85e9-b75a9ab3c0fd",
+    "reportId": "ac0382ec-63af-4a8d-9e4b-f2bdc241b3e4",
+    "pbiUsername": "sagit@b2b-asia.com",
+    "pbiPassword": "Qod46830",
+    "tenantId": "7e921a99-7ead-40c3-9485-f6474b1bd4fc"
+}

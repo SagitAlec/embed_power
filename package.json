@@ -1,0 +1,29 @@
+{
+  "name": "embed-power",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "adal-node": "^0.2.1",
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.1.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "guid": "^0.0.12",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "jquery": "^3.6.0",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "powerbi-client": "^2.19.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+      "nodemon": "^2.0.15"
+  }
+}
